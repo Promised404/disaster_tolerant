@@ -23,7 +23,7 @@
         <commons.fileupload.version>1.3.2</commons.fileupload.version>
         <commons.lang.version>2.6</commons.lang.version>
         <freemarker-version>2.3.23</freemarker-version>
-        <shiro.version>1.3.2</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <quartz-version>2.2.3</quartz-version>
     </properties>
 
